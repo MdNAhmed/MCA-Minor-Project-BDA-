@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "910848939476",
+    "project_id": "blooddonationtext-382cc",
+    "storage_bucket": "blooddonationtext-382cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910848939476:android:e017ed25432b694f283241",
+        "android_client_info": {
+          "package_name": "com.willteksoftwares.bda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910848939476-v1ud1aadqihviog23coi9uj89q3m63re.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.willteksoftwares.bda",
+            "certificate_hash": "fafd5836cfc8d5c1fb3be92424b58ca45b9ec271"
+          }
+        },
+        {
+          "client_id": "910848939476-49amk33o43l83iecgdfbum8kfhmre7p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn8DYIBX8GBqaPMPgdcvlPXpUfaIj8Hng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910848939476-49amk33o43l83iecgdfbum8kfhmre7p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

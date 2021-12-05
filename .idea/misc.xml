@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BloodDonationApp/BDA/app/src/main/res/drawable/buttons_background.xml" value="0.3769230769230769" />
+        <entry key="..\:/BloodDonationApp/BDA/app/src/main/res/drawable/header_background.xml" value="0.3769230769230769" />
+        <entry key="..\:/BloodDonationApp/BDA/app/src/main/res/drawable/ic_check.xml" value="0.2203125" />
+        <entry key="..\:/BloodDonationApp/BDA/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3769230769230769" />
+        <entry key="..\:/BloodDonationApp/BDA/app/src/main/res/drawable/ic_number.xml" value="0.2203125" />
+        <entry key="..\:/BloodDonationApp/BDA/app/src/main/res/drawable/navigation_selector.xml" value="0.3769230769230769" />
+        <entry key="..\:/BloodDonationApp/BDA/app/src/main/res/layout/activity_category_selected.xml" value="0.3432971014492754" />
+        <entry key="..\:/BloodDonationApp/BDA/app/src/main/res/layout/activity_donor_registration.xml" value="0.3432971014492754" />
+        <entry key="..\:/BloodDonationApp/BDA/app/src/main/res/layout/activity_login.xml" value="0.3532608695652174" />
+        <entry key="..\:/BloodDonationApp/BDA/app/src/main/res/layout/activity_main.xml" value="0.3432971014492754" />
+        <entry key="..\:/BloodDonationApp/BDA/app/src/main/res/layout/activity_notifications.xml" value="0.3432971014492754" />
+        <entry key="..\:/BloodDonationApp/BDA/app/src/main/res/layout/activity_profile.xml" value="0.3432971014492754" />
+        <entry key="..\:/BloodDonationApp/BDA/app/src/main/res/layout/activity_recipient_registration.xml" value="0.3432971014492754" />
+        <entry key="..\:/BloodDonationApp/BDA/app/src/main/res/layout/activity_select_registration.xml" value="0.3432971014492754" />
+        <entry key="..\:/BloodDonationApp/BDA/app/src/main/res/layout/activity_sent_email.xml" value="0.3432971014492754" />
+        <entry key="..\:/BloodDonationApp/BDA/app/src/main/res/layout/activity_splash_screen.xml" value="0.3432971014492754" />
+        <entry key="..\:/BloodDonationApp/BDA/app/src/main/res/layout/header.xml" value="0.3432971014492754" />
+        <entry key="..\:/BloodDonationApp/BDA/app/src/main/res/layout/notification_item.xml" value="0.3432971014492754" />
+        <entry key="..\:/BloodDonationApp/BDA/app/src/main/res/layout/output_layout.xml" value="0.3432971014492754" />
+        <entry key="..\:/BloodDonationApp/BDA/app/src/main/res/layout/user_displayed_layout.xml" value="0.3432971014492754" />
+        <entry key="..\:/BloodDonationApp/BDA/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
